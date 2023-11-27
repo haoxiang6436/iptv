@@ -1,0 +1,11 @@
+{
+    "spider": "./jar/top98_1.jar",
+    "lives": [
+        {
+            "name": "直播",
+            "type": 0,
+            "url": "https://gitee.com/haoxiang6436/iptv/raw/main/live-205234-205300HB.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        }
+    ]
+}
